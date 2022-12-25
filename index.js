@@ -6,7 +6,7 @@ const languageRoutes = require("./routes/LanguageRoutes");
 const projetRoutes = require("./routes/ProjetRoutes");
 const skillRoutes = require("./routes/SkillRoutes");
 const messageRoutes = require("./routes/MessageRoutes");
-const userRouter = require("./routes/userRoutes"); 
+const userRouter = require("./routes/UserRoutes"); 
 const dotenv = require("dotenv");
 const cors = require("cors");
 
